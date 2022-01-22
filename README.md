@@ -7,3 +7,5 @@
 ![HTML](https://img.shields.io/badge/-HTML-4B0082?style=for-the-badge&logo=.NET)
 ![JS](https://img.shields.io/badge/-JavaScript-4B0082?style=for-the-badge&logo=javascript)
 ![BACK-END](https://img.shields.io/badge/-BACKEND-4B0082?style=for-the-badge&logo=flutter)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?theme=radical&username=kamilanonimus&show_icons=true)](https://github.com/anuraghzra/github-readme-stats)
