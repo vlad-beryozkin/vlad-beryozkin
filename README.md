@@ -1,6 +1,6 @@
 
 ## Languages and Tools
-![JS](https://img.shields.io/badge/-JavaScript-4B0082?style=for-the-badge&logo=javascript)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
@@ -8,4 +8,4 @@
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
 [![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?theme=radical&username=vlad-beryozkin&show_icons=true)](https://github.com/anuraghzra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?theme=dark&username=vlad-beryozkin&show_icons=true)](https://github.com/anuraghzra/github-readme-stats)
