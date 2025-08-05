@@ -8,4 +8,4 @@
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
 [![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#)
 
-[![Anurag's github stats](https://github-readme-status.vercel.app/api?theme=dark&username=vlad-beryozkin&show_icons=true)](https://github.com/anuraghzra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?theme=dark&username=vlad-beryozkin&show_icons=true)](https://github.com/anuraghzra/github-readme-stats)
